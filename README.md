@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzzamTaqi28
-- 👀 I’m interested in Data Analysis and Data Science
-- 🌱 I’m currently learning Data Analysis
+- 👀 I’m interested in BackEnd Developtment
+- 🌱 I’m currently learning Nest.Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
